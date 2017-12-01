@@ -1,6 +1,7 @@
-#hellos
+#hello
 <style>
 p{
- background-color
+ background-color:red;
+fontsize:10px;
 }
 </style>
